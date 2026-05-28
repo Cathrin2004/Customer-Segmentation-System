@@ -41,4 +41,4 @@ Dataset contains:
 To segment customers into different groups based on income and spending patterns.
 
 ## Author
-Cathrin
+Cathrin Mariya A
